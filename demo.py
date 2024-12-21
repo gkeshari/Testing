@@ -15,7 +15,7 @@ def get_gemini_response(question):
     return response.text
 
 
-st.header("Gemini LLM Application for chat")
+st.header("Gemini LLM Application for your any queries")
 st.subheader("Build with Gemini 2.0 see its capabilities")
 
 
