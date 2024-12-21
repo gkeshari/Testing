@@ -15,8 +15,8 @@ def get_gemini_response(question):
     return response.text
 
 
-st.header("Gemini LLM Application")
-st.subheader("Build with Gemini")
+st.header("Gemini LLM Application for chat")
+st.subheader("Build with Gemini 2.0 see its capabilities")
 
 
 input = st.text_input("Input your Prompt")
